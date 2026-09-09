@@ -72,10 +72,10 @@ Built with a **.NET Web API** backend and a **React** frontend — includes auth
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismetmercanli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismetmercanli&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/stars/ismetmercanli?style=for-the-badge&color=2E9EF7&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/followers/ismetmercanli?style=for-the-badge&color=2E9EF7&label=Followers" />
+  <img src="https://img.shields.io/github/last-commit/ismetmercanli/SuppGain?style=for-the-badge&color=2E9EF7&label=Last%20Commit" />
 </p>
-
 ---
 
 ### 🌐 Connect With Me
