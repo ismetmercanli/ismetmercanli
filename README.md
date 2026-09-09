@@ -1,4 +1,3 @@
-[README_EN.md](https://github.com/user-attachments/files/32012130/README_EN.md)
 <h1 align="center">Hi, I'm İsmet Mercanlı 👋</h1>
 <h3 align="center">Computer Engineering Student | Backend & Full-Stack Developer</h3>
 
