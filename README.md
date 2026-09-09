@@ -65,7 +65,7 @@ SuppGain is a full-stack e-commerce application for selling and managing nutriti
   <a href="mercanliismet@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="(https://www.xn--ismetmercanl-d5b.com/)" target="_blank">
+  <a href="(https://www.xn--ismetmercanl-d5b.com)" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
