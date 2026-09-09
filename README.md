@@ -75,6 +75,7 @@ Built with a **.NET Web API** backend and a **React** frontend — includes auth
   <img src="https://img.shields.io/github/stars/ismetmercanli?style=for-the-badge&color=2E9EF7&label=Total%20Stars" />
   <img src="https://img.shields.io/github/followers/ismetmercanli?style=for-the-badge&color=2E9EF7&label=Followers" />
   <img src="https://img.shields.io/github/last-commit/ismetmercanli/SuppGain?style=for-the-badge&color=2E9EF7&label=Last%20Commit" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismetmercanli&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 ---
 
