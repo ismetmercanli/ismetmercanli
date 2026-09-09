@@ -41,8 +41,10 @@
 
 <!-- Copy this block for each project, fill in the link and description -->
 
-#### 🔹 [SuppGain](https://github.com/ismetmercanli/SuppGain)
-Full-stack e-commerce platform for selling and managing nutritional supplements — built with a **.NET Web API** backend and a **React** frontend.
+#### 🛒 [SuppGain](https://github.com/ismetmercanli/SuppGain)
+> **Full-Stack E-Commerce Platform for Nutritional Supplements**
+
+Built with a **.NET Web API** backend and a **React** frontend — includes authentication, product management, cart, orders, and weekly nutrition programs.
 
 **Key Features:**
 - 🔐 User authentication & authorization
@@ -51,7 +53,6 @@ Full-stack e-commerce platform for selling and managing nutritional supplements 
 - 🍽️ Weekly nutrition programs
 
 `Built with: .NET, React, ASP.NET Core Web API`
----
 
 ### 📊 GitHub Stats
 
