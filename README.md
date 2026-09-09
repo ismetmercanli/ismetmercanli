@@ -45,6 +45,8 @@
 
 ``
 SuppGain is a full-stack e-commerce application for selling and managing nutritional supplements. It features a .NET Web API backend and a React frontend, including authentication, product management, cart, orders, and weekly nutrition programs.
+
+``
 ---
 
 ### 📊 GitHub Stats
