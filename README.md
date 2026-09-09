@@ -71,8 +71,6 @@ Built with a **.NET Web API** backend and a **React** frontend — includes auth
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ismetmercanli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismetmercanli&layout=compact&theme=tokyonight&hide_border=true" />
