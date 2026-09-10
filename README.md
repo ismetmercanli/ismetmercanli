@@ -57,6 +57,7 @@
 <!-- Copy this block for each project, fill in the link and description -->
 
 #### 🛒 [SuppGain](https://github.com/ismetmercanli/SuppGain)
+
 > **Full-Stack E-Commerce Platform for Nutritional Supplements**
 
 Built with a **.NET Web API** backend and a **React** frontend — includes authentication, product management, cart, orders, and weekly nutrition programs.
@@ -66,6 +67,20 @@ Built with a **.NET Web API** backend and a **React** frontend — includes auth
 - 🛒 Product management & shopping cart
 - 📦 Order processing
 - 🍽️ Weekly nutrition programs
+
+#### 🎬 [MOVIERSE](https://github.com/ismetmercanli/MOVIERSE)
+
+> **AI-Powered Movie Discovery & Recommendation Platform**
+
+A desktop application built with **Python** and **PyQt6** that helps users discover movies and receive personalized recommendations based on movie content.
+
+**Key Features:**
+
+* 🎥 Movie discovery and listing
+* 🤖 Content-based movie recommendation system
+* 🔎 Category filtering
+* 🎲 Random movie selection
+* ⭐ Movie information including ratings, genres, and details
 
 ---
 `Built with: .NET, React, ASP.NET Core Web API`
