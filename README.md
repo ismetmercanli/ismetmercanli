@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm İsmet Mercanlı 👋</h1>
 <h3 align="center">Computer Engineering Student | Backend & Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ismetmercanli&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -32,6 +28,8 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+---
+
 **Frameworks & Libraries**
 
 <p align="left">
@@ -40,6 +38,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
+
+---
 
 **Database & Tools**
 
@@ -67,6 +67,7 @@ Built with a **.NET Web API** backend and a **React** frontend — includes auth
 - 📦 Order processing
 - 🍽️ Weekly nutrition programs
 
+---
 `Built with: .NET, React, ASP.NET Core Web API`
 
 ### 📊 GitHub Stats
@@ -74,6 +75,7 @@ Built with a **.NET Web API** backend and a **React** frontend — includes auth
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismetmercanli&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 ---
 
 ### 🌐 Connect With Me
