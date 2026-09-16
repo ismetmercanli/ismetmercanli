@@ -74,12 +74,14 @@ Built with a **.NET Web API** backend and a **React** frontend — includes auth
 
 A desktop application built with **Python** and **PyQt6** that helps users discover movies and receive personalized recommendations based on movie content.
 
+Tabii, README formatını bozmadan **random movie selection** yerine izlenen filmlere dayalı özelliği şöyle yazabiliriz:
+
 **Key Features:**
 
 * 🎥 Movie discovery and listing
 * 🤖 Content-based movie recommendation system
 * 🔎 Category filtering
-* 🎲 Random movie selection
+* 🎬 Recommendations based on previously watched movies
 * ⭐ Movie information including ratings, genres, and details
 
 ---
